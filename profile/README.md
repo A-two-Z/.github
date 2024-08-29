@@ -24,9 +24,15 @@
 <br>
 
 ## 동작 사진
+
+### 최적화 경로 탐색
 <img src="https://github.com/user-attachments/assets/1e6291f2-d67d-4bd9-b78c-6468d0391ab7" width="400"/>
 <img src="https://github.com/user-attachments/assets/ea3a7d25-4d34-4462-91ef-454c48aa037c" width="400"/>
+
+### wear OS 활용
 <img src="https://github.com/user-attachments/assets/948d3aea-3edc-419a-ab9a-3aac98cd911f" height="500"/>
+
+### 자동 하역 시스템
 <img src="https://github.com/user-attachments/assets/d8fd860e-7e86-43cb-bb0b-403afe16e461" height="500"/>
 
 <!--
@@ -83,7 +89,7 @@
 </tr>
 <tr>
 <td>디바이스 구성</td>
-<td>Raspberry Pi 4B, KEYESTUDIO ESP8266</td>
+<td>Raspberry Pi</td>
 </tr>
 <tr>
 <td>IDE</td>
