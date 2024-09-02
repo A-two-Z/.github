@@ -166,9 +166,9 @@
 ## 팀 명단
 | Profile | Role | Part | Tech Stack |
 | ------- | ---- | ---- | ---------- |
-| <div align="center"><a href="https://github.com/ymw0407"><img src="https://avatars.githubusercontent.com/u/117324719?v=4" width="70px;" alt=""/><br/><sub><b>윤지욱</b><sub></a></div> | 팀장 | PM, HW | - |
+| <div align="center"><a href="https://github.com/ymw0407"><img src="https://avatars.githubusercontent.com/u/117324719?v=4" width="70px;" alt=""/><br/><sub><b>윤지욱</b><sub></a></div> | 팀장 | PM, HW | Python(Raspberry Pi), MQTT |
 | <div align="center"><a href="https://github.com/seiyoon"><img src="https://avatars.githubusercontent.com/u/86597542?v=4" width="70px;" alt=""/><br/><sub><b>강형남</b><sub></a></div> | 팀원 | HW | - |
 | <div align="center"><a href="https://github.com/judyzero"><img src="https://avatars.githubusercontent.com/u/99954264?v=4" width="70px;" alt=""/><br/><sub><b>김재현</b></sub></a></div> | 팀원 | Server, DB | RabbitMQ, mqtt |
-| <div align="center"><a href="https://github.com/jjunh33"><img src="https://avatars.githubusercontent.com/u/44452761?v=4" width="70px;" alt=""/><br/><sub><b>박상빈</b></sub></a></div> | 팀원 | Digital Twin | - |
-| <div align="center"><a href="https://github.com/bentshrimp"><img src="https://avatars.githubusercontent.com/u/130520505?v=4" width="70px;" alt=""/><br/><sub><b>이현주</b></sub></a></div> | 팀원 | Server, DB | RabbitMQ, Restful API |
+| <div align="center"><a href="https://github.com/jjunh33"><img src="https://avatars.githubusercontent.com/u/44452761?v=4" width="70px;" alt=""/><br/><sub><b>박상빈</b></sub></a></div> | 팀원 | Digital Twin |  Kotin(Android Studio), C#(Unity), MQTT, HTTP/HTTPS |
+| <div align="center"><a href="https://github.com/bentshrimp"><img src="https://avatars.githubusercontent.com/u/130520505?v=4" width="70px;" alt=""/><br/><sub><b>이현주</b></sub></a></div> | 팀원 | Server, DB | RabbitMQ, Restful API, Nginx |
 
