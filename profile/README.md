@@ -68,7 +68,8 @@
 
 
 ## 시연 영상
-유튜브 영상 추가 예정
+
+[![image](https://github.com/user-attachments/assets/a20a8cb3-d86d-4bea-87bd-b7020dd34202)](https://www.youtube.com/watch?v=dOtYxKFDqmM)
 
 
 ## System Architecture
