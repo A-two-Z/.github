@@ -1,8 +1,7 @@
 # 제 22회 임베디드 소프트웨어 경진대회 자유부문 AtwoZ팀 - 류(流)
 
 
-![류봇](https://github.com/user-attachments/assets/a3e078a6-e5bd-4544-a32c-d9abe62e4c9b)
-
+![류봇](https://github.com/user-attachments/assets/0a9328fb-1198-43b5-8e66-0dabf38b1a1e)
 
 ## 작품 소개
 주문 요청을 분석하여 입력된 지도를 기반으로 효율적인 경로를 계산한 후, 최적화된 동선으로 경로를 설계한다. 직원들은 각 섹터에서 대기하다 로봇이 도착하면 WearOS에 뜬 물건을 로봇 위에 옮겨담는 작업을 수행한 뒤 로봇에게 완료 신호를 전송한다.
@@ -75,8 +74,7 @@
 
 
 ## System Architecture
-![SystemArchitecture](https://github.com/user-attachments/assets/78b62013-acb7-4d3f-86c0-714aff0abd55)
-
+![시스템아키텍처](https://github.com/user-attachments/assets/620ec243-396c-47e3-ae7f-7ba7883bf9c6)
 <br>
 
 ## 개발 환경 및 기술 스택
